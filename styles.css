@@ -24,10 +24,13 @@ header {
 
 nav ul {
   list-style: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
 }
 
 nav ul li a {
-  padding: 15px;
+  padding: 10px;
   margin: auto;
   padding-top: 20px;
   margin-top: 20px;
